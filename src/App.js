@@ -1,7 +1,4 @@
 import "./App.css";
-//import { getAllCategories } from "./utils/api.js";
-// import { getUsername } from "./utils/api.js";
-//import { useState, useEffect } from "react";
 import { Home } from "./pages/home/home.js";
 import { Nav } from "./pages/navBar.js";
 import { Reviews } from "./pages/review.js";
