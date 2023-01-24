@@ -9,12 +9,12 @@ import React from "react";
 function App() {
   return (
     <section className="App">
-      <Nav />
       <BrowserRouter>
+        <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="aboutUs" element={<About />} />
-          <Route path="review" elemnent={<Reviews />} />
+          <Route path="review" element={<Reviews />} />
         </Routes>
       </BrowserRouter>
     </section>
