@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/geek-games/static/css/main.848bbd7c.css",
+    "main.js": "/geek-games/static/js/main.3eb9eb6f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/geek-games/static/js/787.28cb0dcd.chunk.js",
+    "static/media/white3.jpg": "/geek-games/static/media/white3.81053a8ea158fcd708fa.jpg",
+    "index.html": "/geek-games/index.html",
+    "main.848bbd7c.css.map": "/geek-games/static/css/main.848bbd7c.css.map",
+    "main.3eb9eb6f.js.map": "/geek-games/static/js/main.3eb9eb6f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/geek-games/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.848bbd7c.css",
+    "static/js/main.3eb9eb6f.js"
+  ]
+}
