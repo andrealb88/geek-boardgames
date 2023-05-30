@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/geek-boardgames/static/css/main.eac2a990.css",
-    "main.js": "/geek-boardgames/static/js/main.ddb15589.js",
+    "main.js": "/geek-boardgames/static/js/main.dacb705c.js",
     "static/js/787.28cb0dcd.chunk.js": "/geek-boardgames/static/js/787.28cb0dcd.chunk.js",
     "static/media/white3.jpg": "/geek-boardgames/static/media/white3.81053a8ea158fcd708fa.jpg",
     "index.html": "/geek-boardgames/index.html",
     "main.eac2a990.css.map": "/geek-boardgames/static/css/main.eac2a990.css.map",
-    "main.ddb15589.js.map": "/geek-boardgames/static/js/main.ddb15589.js.map",
+    "main.dacb705c.js.map": "/geek-boardgames/static/js/main.dacb705c.js.map",
     "787.28cb0dcd.chunk.js.map": "/geek-boardgames/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eac2a990.css",
-    "static/js/main.ddb15589.js"
+    "static/js/main.dacb705c.js"
   ]
 }
