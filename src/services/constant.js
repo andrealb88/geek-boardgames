@@ -1,5 +1,6 @@
-//export const BASE_URL = " https://api.boardgameatlas.com/api/search";
-export const BASE_URL = "https://www.api.boardgameatlas.com/api/search";
+export const BASE_URL = " https://www.api.boardgameatlas.com/api/search";
+//export const BASE_URL =
+//"https://www.api.boardgameatlas.com/api/search?order_by=rank&ascending=false&client_id=IzlINuMW4G";
 
 const KEY = process.env.SECRET_KEY;
 
