@@ -28,14 +28,14 @@ import { Home } from "./components/pages/home/home.js";
 import { Nav } from "./components/pages/navbar/navBar.js";
 import { Reviews } from "./components/pages/review.js";
 import { About } from "./components/pages/aboutUs";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import React from "react";
 import { Navigate } from "react-router-dom";
 
 function App() {
   return (
     <section className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -43,7 +43,7 @@ function App() {
           <Route path="/review" element={<Reviews />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </section>
   );
 }
